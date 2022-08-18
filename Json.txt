@@ -1,0 +1,14 @@
+{
+	"type": "object",
+	"employe":[
+		{"name": "Anna", "age":21},
+		{"name": "Vasil", "age":45},
+		{"name": "Goga", "age":32}
+	],
+	"rainbow":[
+		{"color": "red", "present": true},
+		{"color": "purple", "present": false},
+		{"color": "orang", "present": true},
+		{"color": "pink", "present": false}
+	] 
+}

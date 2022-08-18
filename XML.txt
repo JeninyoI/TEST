@@ -1,0 +1,32 @@
+<type>object</type>
+	<employees>
+		<employe>
+			<name>Anna</name>
+			<age>21</age>
+		</employe>
+		<employe>
+			<name>Vasil</name>
+			<age>45</age>
+		</employe>
+		<employe>
+			<name>Goga</name>
+			<age>32</age>
+		</employe>
+	<rainbow>
+		<colors>
+			<color>red</color>
+			<present>true<present>
+		</colors>
+		<colors>
+			<color>purple<color>
+			<present>false<present>
+		</colors>
+		<colors>
+			<color>orange</color>
+			<present>true<present>
+		</colors>
+		<colors>
+			<color>pink<color>
+			<present>false<present>
+		</colors>
+</employees> 
